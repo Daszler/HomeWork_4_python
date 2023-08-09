@@ -45,3 +45,6 @@ for i in range(1, len(a) - 1):
     if sum > max: max = sum
 
 print(max)
+
+
+# Ветка для изменений
